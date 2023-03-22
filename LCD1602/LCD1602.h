@@ -8,7 +8,7 @@ sbit LCD_RW=P2^5;
 sbit LCD_EN=P2^7;
 #define LCD_DataPort P0
 
-//用户调用函数：
+//function declaration
 void LCD_Init();
 void LCD_ShowChar(unsigned char Line,unsigned char Column,char Char);
 void LCD_ShowString(unsigned char Line,unsigned char Column,char *String);
