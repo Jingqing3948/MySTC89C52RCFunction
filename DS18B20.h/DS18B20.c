@@ -2,7 +2,7 @@
  * @Author: Jingqing3948 2351290287@qq.com
  * @Date: 2023-01-09 10:30:01
  * @LastEditors: Jingqing3948 2351290287@qq.com
- * @LastEditTime: 2023-03-26 23:40:05
+ * @LastEditTime: 2023-03-26 23:45:50
  * @Description: control temperature sensor. 
  *
  * Copyright (c) 2023 by Jingqing3948 2351290287@qq.com, All Rights Reserved.
