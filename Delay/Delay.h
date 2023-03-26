@@ -1,4 +1,4 @@
-#include "reg52.h"
+#include "regx52.h"
 #include<intrins.h>
 #ifndef _DELAY_H_
 #define _DELAY_H_
