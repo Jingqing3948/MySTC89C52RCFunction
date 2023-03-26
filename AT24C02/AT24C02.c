@@ -2,12 +2,11 @@
  * @Author: Jingqing3948 2351290287@qq.com
  * @Date: 2023-03-02 12:10:56
  * @LastEditors: Jingqing3948 2351290287@qq.com
- * @LastEditTime: 2023-03-02 21:38:19
+ * @LastEditTime: 2023-03-26 22:50:37
  * @Description: functions about read and write in at24c02 using I2C.
  * 
  * Copyright (c) 2023 by Jingqing3948 2351290287@qq.com, All Rights Reserved. 
  */
-#include "reg52.h"
 #include "IIC.h"
 #include "AT24C02.H"
 
