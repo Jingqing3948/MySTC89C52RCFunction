@@ -1,4 +1,4 @@
-#include "timer0.c"
+#include "regx52.h"
 
 #ifndef __TIMER0_H__
 #define __TIMER0_H__
